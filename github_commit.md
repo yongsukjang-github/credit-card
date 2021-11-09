@@ -15,10 +15,3 @@ initialize repository 클릭
 commit할 파일 '+' 클릭
 상단 'v' 클릭
 메모 입력 > enter
-
-git remote add origin —http~
-
-git pull origin master --allow-unrelated-histories #처음만
-git pull
-
-git push origin master
